@@ -1,0 +1,27 @@
+const allowedOrigins = [
+  "https://63.56.45.190:3006",
+  "https://63.56.37.126:3006",
+  "https://portal-dev.vsop.vzwnet.com/",
+  "https://portal-dev.vsop.vzwnet.com:3006",
+  "https://portal-dev.vsop.vzwnet.com:5000",
+  "https://portal.vsop.vzwnet.com:3006",
+  "https://portal.vsop.vzwnet.com:5000",
+  "https://63.56.45.190/",
+  "http://63.56.45.190/",
+  "https://63.56.37.126/",
+  "http://63.56.37.126/",
+  "https://portal-dev.vsop.vzwnet.com/",
+  "https://portal-dev.vsop.vzwnet.com",
+  "http://portal-dev.vsop.vzwnet.com",
+  "https://portal.vsop.vzwnet.com/",
+  "https://portal.vsop.vzwnet.com",
+  "http://portal.vsop.vzwnet.com",
+  "http://localhost:3006",
+  "https://localhost:3006",
+  "http://localhost:5000",
+  "https://localhost:5000",
+  "https://127.0.0.1:5000",
+  "http://127.0.0.1:5000",
+];
+
+module.exports = allowedOrigins;
