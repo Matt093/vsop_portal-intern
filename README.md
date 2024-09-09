@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
-<h3 align="center">A passionate developer from Texas</h3>
+<h3 align="center">A passionate developer from Dallas Texas</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matt093/vsop_portal-intern.git](https://github.com/Matt093)
 
